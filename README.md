@@ -2,12 +2,20 @@
 
 This is a simple AI chatbot implemented using Flask and a pre-trained language model from Hugging Face Transformers.
 
+## Technologies Used
+
+- **Flask:** A micro web framework for Python used to create the backend server.
+- **Hugging Face Transformers:** An open-source library that provides thousands of pre-trained models for natural language processing tasks.
+- **HTML/CSS/JavaScript:** Used for building the frontend user interface.
+- **SQLite:** A lightweight database engine used to store chat history.
+- **Python:** The programming language used for backend logic and model interactions.
+
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone [https://github.com/aryan1112003/Ai_ChatBot.git]
+    git clone https://github.com/yourusername/chatbot.git
     ```
 
 2. Navigate to the project directory:
@@ -63,6 +71,8 @@ This is a simple AI chatbot implemented using Flask and a pre-trained language m
     ```
 
 3. Open your web browser and navigate to http://127.0.0.1:5000/ to access the chatbot interface.
+
+## Contributing
 
 ## Contributing
 
